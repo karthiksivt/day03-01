@@ -1,0 +1,20 @@
+.main-box{
+   width: 600px;
+   margin: 50px auto;
+   position: relative;
+ 
+
+}
+
+.blog-img{
+    width: 100%;
+    border-radius: 12px;
+}
+
+.content-box{
+    margin: 50px 0;
+    position: absolute;
+    bottom: 0;
+    color: aquamarine;  
+    text-align: center;
+}
